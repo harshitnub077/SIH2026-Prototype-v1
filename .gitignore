@@ -1,0 +1,26 @@
+node_modules/
+.env
+uploads/*
+!uploads/.gitkeep
+reports/*
+!reports/.gitkeep
+*.log
+.DS_Store
+Thumbs.db
+
+.vercel
+.env*
+
+# --- Dev artifacts (never commit these) ---
+*.sqlite
+*.traineddata
+test_reports/
+reports/
+fix_*.js
+patch_*.js
+check*.js
+test_*.js
+apply_*.js
+backend/uploads/*
+!backend/uploads/.gitkeep
+developer-toolkit/
