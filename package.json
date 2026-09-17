@@ -1,0 +1,11 @@
+{
+  "name": "metrolens-root",
+  "private": true,
+  "scripts": {
+    "build": "npm install --prefix frontend && npm --prefix frontend run build",
+    "test": "npm install --prefix backend && npm --prefix backend test -- --runInBand"
+  },
+  "dependencies": {
+    "glob": "^13.0.6"
+  }
+}
