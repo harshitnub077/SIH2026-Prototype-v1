@@ -1,0 +1,287 @@
+{
+  "data": {
+    "total_scans": 75,
+    "compliant_count": 1,
+    "non_compliant_count": 72,
+    "needs_review_count": 2,
+    "not_verified_count": 0,
+    "not_applicable_count": 0,
+    "total_violations": 396,
+    "high_violations": 132,
+    "avg_compliance_score": 47.7,
+    "top_violated_rules": [
+      {
+        "ruleId": "Rule 3",
+        "ruleTitle": "Applicability of the Chapter",
+        "severity": "low",
+        "count": "49"
+      },
+      {
+        "ruleId": "Rule 8",
+        "ruleTitle": "Declarations — Placement on Principal Display Panel",
+        "severity": "low",
+        "count": "43"
+      },
+      {
+        "ruleId": "Rule 6 / Rule 2",
+        "ruleTitle": "Best Before / Use By Date",
+        "severity": "low",
+        "count": "40"
+      },
+      {
+        "ruleId": "Rule 6",
+        "ruleTitle": "Consumer Care Contact Details",
+        "severity": "medium",
+        "count": "24"
+      },
+      {
+        "ruleId": "Rule 6",
+        "ruleTitle": "Month and Year of Manufacture / Pre-packing / Import",
+        "severity": "high",
+        "count": "23"
+      },
+      {
+        "ruleId": "Rule 6 / Rule 10",
+        "ruleTitle": "Address of Manufacturer / Packer / Importer",
+        "severity": "high",
+        "count": "23"
+      },
+      {
+        "ruleId": "Rule 6 / Rule 10",
+        "ruleTitle": "Name of Manufacturer / Packer / Importer",
+        "severity": "high",
+        "count": "21"
+      },
+      {
+        "ruleId": "Rule 6",
+        "ruleTitle": "Month and Year of Manufacture / Pre-packing / Import",
+        "severity": "medium",
+        "count": "19"
+      }
+    ],
+    "daily_scans": [
+      {
+        "date": "2026-08-29",
+        "count": "3",
+        "compliant": "0",
+        "non_compliant": "3",
+        "needs_review": "0",
+        "not_verified": "0"
+      },
+      {
+        "date": "2026-08-30",
+        "count": "9",
+        "compliant": "0",
+        "non_compliant": "9",
+        "needs_review": "0",
+        "not_verified": "0"
+      },
+      {
+        "date": "2026-08-31",
+        "count": "2",
+        "compliant": "0",
+        "non_compliant": "2",
+        "needs_review": "0",
+        "not_verified": "0"
+      },
+      {
+        "date": "2026-09-03",
+        "count": "3",
+        "compliant": "0",
+        "non_compliant": "3",
+        "needs_review": "0",
+        "not_verified": "0"
+      },
+      {
+        "date": "2026-09-04",
+        "count": "7",
+        "compliant": "0",
+        "non_compliant": "7",
+        "needs_review": "0",
+        "not_verified": "0"
+      },
+      {
+        "date": "2026-09-05",
+        "count": "2",
+        "compliant": "0",
+        "non_compliant": "2",
+        "needs_review": "0",
+        "not_verified": "0"
+      }
+    ],
+    "recent_scans": [
+      {
+        "id": "43172181-c542-430b-90b1-feb33ccacf89",
+        "product_name": "CLEAN & CLEAR Foaming Face Wash",
+        "brand_name": "CLEAN & CLEAR",
+        "overall_compliance": "non_compliant",
+        "overallStatus": "non_compliant",
+        "compliance_score": 73,
+        "total_violations": 1,
+        "high_violations": 0,
+        "criticalViolations": 0,
+        "ocr_engine_used": "gemini",
+        "source_type": "physical_label",
+        "created_at": "2026-09-05T03:13:58.027Z"
+      },
+      {
+        "id": "a3f4eb32-fe0b-4979-a4fc-632eb0ab4a54",
+        "product_name": "PAPAYA AURA BEAUTY SOAP",
+        "brand_name": "Nature POWER",
+        "overall_compliance": "non_compliant",
+        "overallStatus": "non_compliant",
+        "compliance_score": 60,
+        "total_violations": 2,
+        "high_violations": 0,
+        "criticalViolations": 0,
+        "ocr_engine_used": "gemini",
+        "source_type": "physical_label",
+        "created_at": "2026-09-05T02:58:25.609Z"
+      },
+      {
+        "id": "9114abd5-e625-47c5-bef9-b79f5602f5ca",
+        "product_name": "Lay's Potato Chips",
+        "brand_name": "Lay's",
+        "overall_compliance": "non_compliant",
+        "overallStatus": "non_compliant",
+        "compliance_score": 55,
+        "total_violations": 3,
+        "high_violations": 0,
+        "criticalViolations": 0,
+        "ocr_engine_used": "gemini",
+        "source_type": "physical_label",
+        "created_at": "2026-09-04T20:46:33.425Z"
+      },
+      {
+        "id": "a4aa1157-2a37-4906-a549-c465ce979695",
+        "product_name": "Parle-G",
+        "brand_name": "Parle",
+        "overall_compliance": "non_compliant",
+        "overallStatus": "non_compliant",
+        "compliance_score": 45,
+        "total_violations": 4,
+        "high_violations": 0,
+        "criticalViolations": 0,
+        "ocr_engine_used": "gemini",
+        "source_type": "physical_label",
+        "created_at": "2026-09-04T18:39:32.817Z"
+      },
+      {
+        "id": "19756e4f-763b-42ea-8869-09194c318ec5",
+        "product_name": "Parle-G® Gluco BISCUITS",
+        "brand_name": "PARLE",
+        "overall_compliance": "non_compliant",
+        "overallStatus": "non_compliant",
+        "compliance_score": 64,
+        "total_violations": 2,
+        "high_violations": 0,
+        "criticalViolations": 0,
+        "ocr_engine_used": "gemini",
+        "source_type": "physical_label",
+        "created_at": "2026-09-04T16:11:46.572Z"
+      },
+      {
+        "id": "4908fccd-b8c0-46e8-84e4-c1dbb735feca",
+        "product_name": "HEAT TREATED (RETORT) VANILLA CARAMEL FLAVOURED SKIMMED MILK",
+        "brand_name": null,
+        "overall_compliance": "non_compliant",
+        "overallStatus": "non_compliant",
+        "compliance_score": 18,
+        "total_violations": 7,
+        "high_violations": 6,
+        "criticalViolations": 6,
+        "ocr_engine_used": "gemini",
+        "source_type": "physical_label",
+        "created_at": "2026-09-04T16:09:10.382Z"
+      },
+      {
+        "id": "7978f0b6-6369-475d-b777-1d06d53206b9",
+        "product_name": "Unknown Product",
+        "brand_name": "Unilever",
+        "overall_compliance": "non_compliant",
+        "overallStatus": "non_compliant",
+        "compliance_score": 45,
+        "total_violations": 4,
+        "high_violations": 2,
+        "criticalViolations": 2,
+        "ocr_engine_used": "gemini",
+        "source_type": "physical_label",
+        "created_at": "2026-09-04T15:15:58.437Z"
+      },
+      {
+        "id": "bf60a629-db84-4d0f-89b0-e6e854f8344a",
+        "product_name": "Millet Chocolate Horlicks",
+        "brand_name": "Horlicks",
+        "overall_compliance": "non_compliant",
+        "overallStatus": "non_compliant",
+        "compliance_score": 55,
+        "total_violations": 3,
+        "high_violations": 1,
+        "criticalViolations": 1,
+        "ocr_engine_used": "gemini",
+        "source_type": "physical_label",
+        "created_at": "2026-09-04T12:19:02.139Z"
+      },
+      {
+        "id": "f4b964ab-4bae-4319-b71d-b31e34b992bb",
+        "product_name": "TIRUNELVELI HALWA",
+        "brand_name": "Sri Dairy",
+        "overall_compliance": "non_compliant",
+        "overallStatus": "non_compliant",
+        "compliance_score": 45,
+        "total_violations": 4,
+        "high_violations": 4,
+        "criticalViolations": 4,
+        "ocr_engine_used": "gemini",
+        "source_type": "physical_label",
+        "created_at": "2026-09-04T12:05:58.473Z"
+      },
+      {
+        "id": "7c941753-2359-4e5d-99ea-1c1f168bac33",
+        "product_name": "CLEANSING ALOE VERA FACIAL WIPES",
+        "brand_name": "LIVEASY",
+        "overall_compliance": "non_compliant",
+        "overallStatus": "non_compliant",
+        "compliance_score": 64,
+        "total_violations": 2,
+        "high_violations": 0,
+        "criticalViolations": 0,
+        "ocr_engine_used": "gemini",
+        "source_type": "physical_label",
+        "created_at": "2026-09-03T15:58:49.508Z"
+      }
+    ],
+    "top_non_compliant": [
+      {
+        "productName": "POTATO CHIPS",
+        "brandName": "Lay's",
+        "totalScans": "9",
+        "failScans": "9"
+      },
+      {
+        "productName": "Potato Chips",
+        "brandName": "Lay's",
+        "totalScans": "5",
+        "failScans": "5"
+      },
+      {
+        "productName": "UHT STERILIZED FLAVOURED TONED MILK",
+        "brandName": null,
+        "totalScans": "4",
+        "failScans": "4"
+      },
+      {
+        "productName": "CLEANSING ALOE VERA FACIAL WIPES",
+        "brandName": "LIVEASY",
+        "totalScans": "4",
+        "failScans": "4"
+      },
+      {
+        "productName": "Diet Coke",
+        "brandName": "Coca-Cola",
+        "totalScans": "3",
+        "failScans": "3"
+      }
+    ]
+  }
+}
